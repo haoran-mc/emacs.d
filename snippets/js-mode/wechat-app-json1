@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: wechat-app-json1
+# key: 
+# --
+
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#ededef",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "视频",
+        "backgroundColor": "#ededef",
+        "backgroundTextStyle": "light",
+        "enablePullDownRefresh": false
+    }
+}

@@ -21,9 +21,10 @@
   "sp" 'helm-do-ag-project-root
   ;;------------------------------
   "ad" 'dired
-  "oT" (lambda() (interactive) (dired "~/haoran/Notes/Markdown/"))
   "tw" (lambda() (interactive) (find-file "~/haoran/Notes/Org/Programming/+wiki-list.org") (sp-push-position-to-ring))
   "rc" (lambda() (interactive) (dired "~/.emacs.d/"))
+  "oT" (lambda() (interactive) (dired "~/haoran/Notes/Markdown/"))
+  "oy" 'youdao-dictionary-search-at-point+
   "go" 'evil-tabs-mode
   "xx" 'exchange-point-and-mark
   "rb" 'bookmark-jump-other-window

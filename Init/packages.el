@@ -28,6 +28,7 @@
                           emmet-mode
                           css-mode
                           helm-ag
+                          youdao-dictionary
 
                           ;; js2-mode             ;;更好用的js-mode
                           ;; nodejs-repl          ;;运行js文件

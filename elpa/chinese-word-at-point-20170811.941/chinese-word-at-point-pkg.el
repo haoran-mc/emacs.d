@@ -1,0 +1,2 @@
+;;; Generated package description from chinese-word-at-point.el  -*- no-byte-compile: t -*-
+(define-package "chinese-word-at-point" "20170811.941" "Add `chinese-word' thing to `thing-at-point'" '((cl-lib "0.5")) :commit "8223d7439e005555b86995a005b225ae042f0538" :authors '(("Chunyang Xu" . "xuchunyang56@gmail.com")) :maintainer '("Chunyang Xu" . "xuchunyang56@gmail.com") :keywords '("convenience" "chinese") :url "https://github.com/xuchunyang/chinese-word-at-point.el")
